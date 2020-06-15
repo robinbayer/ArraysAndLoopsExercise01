@@ -1,0 +1,19 @@
+{
+  "name": "arraysandloopsexercise01",
+  "version": "1.0.0",
+  "description": "Arrays and Loops Exercise 1",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/robinbayer/ArraysAndLoopsExercise01.git"
+  },
+  "author": "Robin Bayer",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/robinbayer/ArraysAndLoopsExercise01/issues"
+  },
+  "homepage": "https://github.com/robinbayer/ArraysAndLoopsExercise01#readme"
+}
